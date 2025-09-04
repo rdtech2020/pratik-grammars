@@ -1,0 +1,90 @@
+[
+  {
+    "input": "how is you?",
+    "output": "How are you?"
+  },
+  {
+    "input": "I goes to the store",
+    "output": "I go to the store."
+  },
+  {
+    "input": "She don't like it",
+    "output": "She doesn't like it."
+  },
+  {
+    "input": "They was happy",
+    "output": "They were happy."
+  },
+  {
+    "input": "The cat are sleeping",
+    "output": "The cat is sleeping."
+  },
+  {
+    "input": "He have a car",
+    "output": "He has a car."
+  },
+  {
+    "input": "We is going home",
+    "output": "We are going home."
+  },
+  {
+    "input": "I want to go market but rain is coming",
+    "output": "I want to go to the market but the rain is coming."
+  },
+  {
+    "input": "The students was studying hard and they was tired",
+    "output": "The students were studying hard and they were tired."
+  },
+  {
+    "input": "She have three cats and they is very playful",
+    "output": "She has three cats and they are very playful."
+  },
+  {
+    "input": "I went store yesterday",
+    "output": "I went to the store yesterday."
+  },
+  {
+    "input": "She lives in house near park",
+    "output": "She lives in a house near the park."
+  },
+  {
+    "input": "He works at company in city",
+    "output": "He works at a company in the city."
+  },
+  {
+    "input": "I am go to school",
+    "output": "I am going to school."
+  },
+  {
+    "input": "She will goes to work",
+    "output": "She will go to work."
+  },
+  {
+    "input": "They have went to store",
+    "output": "They have gone to the store."
+  },
+  {
+    "input": "My friend like movies",
+    "output": "My friend likes movies."
+  },
+  {
+    "input": "The children is playing",
+    "output": "The children are playing."
+  },
+  {
+    "input": "Each student have book",
+    "output": "Each student has a book."
+  },
+  {
+    "input": "Where you going?",
+    "output": "Where are you going?"
+  },
+  {
+    "input": "What time it is?",
+    "output": "What time is it?"
+  },
+  {
+    "input": "How long you been here?",
+    "output": "How long have you been here?"
+  }
+]
